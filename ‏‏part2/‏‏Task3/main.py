@@ -22,4 +22,5 @@ def is_sorted_polyndrom(text: str) -> bool:
 if __name__ == '__main__':
     print(is_sorted_polyndrom("abcdcba"))
     print(is_sorted_polyndrom("אבגדגבא"))
+    print(is_sorted_polyndrom("דגבאבגד"))
     print(is_sorted_polyndrom("123565321"))

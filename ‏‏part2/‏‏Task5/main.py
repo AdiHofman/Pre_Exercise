@@ -8,4 +8,4 @@ def reverse_n_pi_digits(n: int) -> str:
 
 
 if __name__ == '__main__':
-    print(reverse_n_pi_digits(20))
+    print(reverse_n_pi_digits(50))
