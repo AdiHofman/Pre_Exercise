@@ -24,25 +24,16 @@ namespace DataStructures
             return newNode;
         }
 
-        public void MoveNext()
-        {
-            if (HasNext())
-            {
-                Value = Next.Value;
-                Next = Next.Next;
-            }
-        }
-
         public bool HasNext() { return Next != null; }
 
         public Node GetNodeByValue(int value)
         {
-            Node copy = Copy();
+            Node copy = this;
             if (copy.Value == value)
                 return copy;
             while(copy.HasNext())
             {
-                copy.MoveNext();
+                copy = copy.Next;
                 if (copy.Value == value)
                     return copy;
             }

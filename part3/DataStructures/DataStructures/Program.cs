@@ -11,20 +11,31 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            LinkedList list = new LinkedList(1);
-            list.Append(2);
+            // Linked List check
+            LinkedList list = new LinkedList(6);
             list.Append(3);
-            list.Append(4);
             list.Append(5);
-            list.Append(6);
+            list.Append(4);
+            list.Append(1);
+            list.Append(2);
+
+            list.Sort();
+
+            list.Prepend(1);
+
+            list.Pop();
 
             list.Unqueue();
-            list.Unqueue();
-            list.Unqueue();
 
-            Console.WriteLine(list.Pop());
-            Console.WriteLine(list.Pop());
-            Console.WriteLine(list.Pop());
+            Console.WriteLine(list.IsCircular());
+
+            Console.WriteLine(list.GetMaxNode().Value);
+            Console.WriteLine(list.GetMinNode().Value);
+
+
+            // Numerical Expression check
+            NumericalExpression expression = new NumericalExpression(22);
+            Console.WriteLine(expression.ToString());
 
         }
     }

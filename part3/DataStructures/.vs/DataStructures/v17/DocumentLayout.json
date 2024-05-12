@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|c:\\users\\hofman\\desktop\\adi\\pre_exercise\\part3\\datastructures\\datastructures\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|c:\\users\\hofman\\desktop\\adi\\pre_exercise\\part3\\datastructures\\datastructures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|c:\\users\\hofman\\desktop\\adi\\pre_exercise\\part3\\datastructures\\datastructures\\numericalexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\numericalexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84A456B9-BF02-47CC-ACCA-3EC036451A1C}|DataStructures\\DataStructures.csproj|c:\\users\\hofman\\desktop\\adi\\pre_exercise\\part3\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,38 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\LinkedList.cs",
-              "RelativeDocumentMoniker": "DataStructures\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\LinkedList.cs",
-              "RelativeToolTip": "DataStructures\\LinkedList.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Title": "NumericalExpression.cs",
+              "DocumentMoniker": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\NumericalExpression.cs",
+              "RelativeDocumentMoniker": "DataStructures\\NumericalExpression.cs",
+              "ToolTip": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\NumericalExpression.cs",
+              "RelativeToolTip": "DataStructures\\NumericalExpression.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:38:09.285Z",
+              "WhenOpened": "2024-05-12T13:39:14.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\Node.cs",
-              "RelativeDocumentMoniker": "DataStructures\\Node.cs",
-              "ToolTip": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\Node.cs",
-              "RelativeToolTip": "DataStructures\\Node.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwCoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:32:42.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\Program.cs",
               "RelativeDocumentMoniker": "DataStructures\\Program.cs",
               "ToolTip": "C:\\Users\\hofman\\Desktop\\Adi\\Pre_Exercise\\part3\\DataStructures\\DataStructures\\Program.cs",
               "RelativeToolTip": "DataStructures\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T11:27:42.643Z",
               "EditorCaption": ""
