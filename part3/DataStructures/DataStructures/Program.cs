@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace DataStructures
 {
@@ -32,11 +35,13 @@ namespace DataStructures
             Console.WriteLine(list.GetMaxNode().Value);
             Console.WriteLine(list.GetMinNode().Value);
 
-
             // Numerical Expression check
-            NumericalExpression expression = new NumericalExpression(22);
-            Console.WriteLine(expression.ToString());
+            Console.OutputEncoding = System.Text.Encoding.UTF8; // for foreign languages
 
+            NumericalExpression expression = new NumericalExpression(55, "es");
+            Console.WriteLine(expression.ToString());
+            Console.WriteLine(NumericalExpression.SumLetters(5, "es"));
+            Console.WriteLine(NumericalExpression.SumLetters(new NumericalExpression(5, "es")));
         }
     }
 }
