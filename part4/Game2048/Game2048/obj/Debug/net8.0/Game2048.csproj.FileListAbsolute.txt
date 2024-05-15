@@ -1,0 +1,15 @@
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\bin\Debug\net8.0\Game2048.exe
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\bin\Debug\net8.0\Game2048.deps.json
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\bin\Debug\net8.0\Game2048.runtimeconfig.json
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\bin\Debug\net8.0\Game2048.dll
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\bin\Debug\net8.0\Game2048.pdb
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.AssemblyInfoInputs.cache
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.AssemblyInfo.cs
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.sourcelink.json
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.dll
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\refint\Game2048.dll
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.pdb
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\Game2048.genruntimeconfig.cache
+C:\Users\hofman\Desktop\Adi\Pre_Exercise\part4\Game2048\Game2048\obj\Debug\net8.0\ref\Game2048.dll
